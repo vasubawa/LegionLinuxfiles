@@ -1,0 +1,82 @@
+EC Chip ID: 8227
+EC Chip Version: 2a4
+legion_laptop features: fancurve powermode platformprofile platformprofilenotify minifancurve
+legion_laptop ec_readonly: 0
+ACPI CFG error: 0
+ACPI CFG: 2081289482
+temperature access method: 1
+CPU temperature error: 0
+CPU temperature: 40
+CPU temperature EC error: 0
+CPU temperature EC: 40
+CPU temperature ACPI error: 0
+CPU temperature ACPI: 40
+CPU temperature WMI error: 0
+CPU temperature WMI: 0
+CPU temperature WMI2 error: 0
+CPU temperature WMI2: 40
+GPU temperature error: 0
+GPU temperature: 38
+GPU temperature EC error: 0
+GPU temperature EC: 38
+GPU temperature ACPI error: 0
+GPU temperature ACPI: 38
+GPU temperature WMI error: 0
+GPU temperature WMI: 0
+GPU temperature WMI2 error: 0
+GPU temperature WMI2: 38
+fan speed access method: 1
+1 fanspeed error: 0
+1 fanspeed: 1970
+1 fanspeed EC error: 0
+1 fanspeed EC: 1970
+1 fanspeed ACPI error: 0
+1 fanspeed ACPI: 1900
+1 fanspeed WMI error: 0
+1 fanspeed WMI: 0
+1 fanspeed WMI2 error: 0
+1 fanspeed WMI2: 1900
+2 fanspeed error: 0
+2 fanspeed: 2075
+2 fanspeed EC error: 0
+2 fanspeed EC: 2075
+2 fanspeed ACPI error: 0
+2 fanspeed ACPI: 2000
+2 fanspeed WMI error: 0
+2 fanspeed WMI: 0
+2 fanspeed WMI2 error: 0
+2 fanspeed WMI2: 2000
+powermode access method: 3
+powermode error: 0
+powermode: 1
+powermode EC error: 0
+powermode EC: 2
+powermode ACPI error: -5
+powermode ACPI: 0
+powermode WMI error: 0
+powermode WMI: 1
+has custom powermode: 1
+ACPI rapidcharge error: 0
+ACPI rapidcharge: 0
+WMI backlight 2 state: 0
+WMI backlight 3 state: -14
+EC minifancurve feature enabled: 1
+EC minifancurve on cool: true
+EC lockfancontroller error: 0
+EC lockfancontroller: false
+EC fanfullspeed error: false
+EC fanfullspeed status: 0
+EC fan curve current point id: 2
+EC fan curve points size: 9
+Current fan curve in hardware (embedded controller):
+rpm1|rpm2|acceleration|deceleration|cpu_min_temp|cpu_max_temp|gpu_min_temp|gpu_max_temp|ic_min_temp|ic_max_temp
+0	 0	 5	 5	 0	 127	 0	 67	 0	 34
+1700	 1800	 5	 5	 127	 127	 58	 67	 32	 38
+1900	 2000	 5	 5	 127	 127	 58	 67	 36	 42
+2200	 2200	 5	 5	 127	 127	 58	 65	 39	 127
+2300	 2300	 2	 2	 127	 127	 58	 75	 127	 127
+2700	 2700	 2	 2	 127	 127	 70	 78	 127	 127
+3000	 3000	 2	 2	 127	 127	 75	 81	 127	 127
+3200	 3200	 2	 2	 127	 127	 78	 86	 127	 127
+3600	 3600	 2	 2	 127	 127	 81	 127	 127	 127
+=====================
